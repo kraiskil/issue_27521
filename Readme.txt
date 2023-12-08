@@ -7,3 +7,8 @@ Each commit will add a line or two here below
 
 +------------------
 Initial commit.
+
++--------------------
+Feature A.
+First commit on branch1
+
