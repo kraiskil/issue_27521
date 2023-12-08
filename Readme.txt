@@ -12,3 +12,7 @@ Initial commit.
 Feature A.
 First commit on branch1
 
++--------------------
+Feature B.
+Second commit on branch1
+
